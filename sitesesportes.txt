@@ -1,0 +1,24 @@
+# Sites de Esportes (Baseado em portais populares no Brasil em 2025, exceto uol.com e uol.com.br)
+globo.com
+ge.globo.com
+esporte.globo.com
+espn.com
+espn.com.br
+lance.com.br
+terra.com.br
+esportes.terra.com.br
+gazetaesportiva.com
+torcedores.com
+trivela.com
+goal.com
+cbssports.com
+bleacherreport.com
+foxsports.com
+foxsports.com.br
+sportv.com.br
+premierleague.com
+nba.com
+nfl.com
+mlb.com
+fifa.com
+uefa.com
