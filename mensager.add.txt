@@ -1,0 +1,5 @@
+discord.com
+discordapp.com
+discordapp.net
+slack.com
+slack-edge.com
